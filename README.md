@@ -1,7 +1,8 @@
+
 # Apache-Log4j-RCE-Attempt
 
-Last update : 12-12-2021 09:41:24
+Last update : 12/12/2021 13:00:38 UTC
 
-The file contains 293 unique ip of which 245 are from the tor network.
+The file contains 392 unique ip of which 259 are from the TOR network.
 
 Getting from https://www.greynoise.io
