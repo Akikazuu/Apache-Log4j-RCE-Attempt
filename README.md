@@ -1,12 +1,12 @@
 
 # Apache-Log4j-RCE-Attempt
 
-Last update : 12/14/2021 09:00:06 UTC
+Last update : 12/14/2021 10:00:07 UTC
 
 The file contains 732 unique ip.
 
 | Flag | Tor | Bot | VPN | Web Crawler|
 | :---:   | :-: | :-: | :-: | :-: |
-| Total | 339 | 94 | 73 | 732 |
+| Total | 339 | 93 | 73 | 732 |
 
 Getting from https://www.greynoise.io
