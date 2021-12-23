@@ -1,7 +1,7 @@
 
 # Apache-Log4j-RCE-Attempt
 
-Last update : 12/23/2021 03:00:06 UTC
+Last update : 12/23/2021 04:00:07 UTC
 
 The file contains 1388 unique ip.
 
