@@ -1,5 +1,5 @@
 
-# Apache-Log4j-RCE-Attempt
+# Apache-Log4j-RCE-Attempt [this service is no longer updated]
 
 Last update : 12/25/2021 21:00:06 UTC
 
